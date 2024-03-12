@@ -92,9 +92,7 @@ else:
 
 -Si se cumple la condición anterior, el programa imprime un mensaje indicando que el primer número es múltiplo del segundo. De lo contrario, imprime un mensaje indicando lo contrario.
 
-
-
-###### ![image](https://github.com/JeysonRomero/Taller-1/assets/159095091/ff99e2a3-faf6-4055-a99d-394455aa34a9)
+![image](https://github.com/JeysonRomero/Taller-1/assets/159095091/9355def5-c55b-4c6b-ad46-5ce4927bc237)
 
 
 
